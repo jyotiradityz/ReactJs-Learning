@@ -44,7 +44,7 @@ const Pokemon = (probes) => {
       <h2>{probes.name}</h2>
       <button className="disbnt" onClick={displaytitle}>Display Name</button>
       <h3>Type:{probes.ptype}</h3>
-      <h4>{probes.details}</h4>
+      <h4>{probes.details} </h4>
     </section>
   )
 }
