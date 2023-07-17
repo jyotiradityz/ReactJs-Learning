@@ -10,15 +10,15 @@ export const pokemonlist = [
     {
       img: 'https://w0.peakpx.com/wallpaper/290/941/HD-wallpaper-gardevoir-pokemon-pokemon.jpg',
       name: 'Gardevoir',
-      ptype: 'Psychic anf Fairy',
-      details: 'A Beautifull Pokemon evolve by kirla, has very types of moves',
+      ptype: 'Psychic and Fairy',
+      details: 'A Beautifull Pokemon evolve by kirla, has very different types of moves',
       id:2,
     },
     {
       img: 'https://w.forfun.com/fetch/ec/eca95a910ac23e3fd5a8fcf0680b95a6.jpeg',
       name: 'Pickachu',
       ptype: 'Electirc',
-      details: 'An electric mouse tail Pokemon which too famous in pokefans',
+      details: 'An electric mouse tail Pokemon which is too famous in pokefans',
       id:3,
     },
     {
@@ -39,14 +39,14 @@ export const pokemonlist = [
       img: 'https://i.pinimg.com/originals/48/6c/69/486c6978e9fd27aa398ce293b050d493.png',
       name: 'Necrozma',
       ptype: 'Psychic',
-      details: 'Ultra world pokemon powerfull than other ulta-beasts',
+      details: 'Ultra world pokemon which is powerfull than other ulta-beasts',
       id:6,
     },
     {
       img: mew,
       name: 'Mew',
       ptype: 'Psychic',
-      details: 'The ancient pokemon has DNA of mostly every pokemon, has many attacks, one of yhe cutest pokemoon',
+      details: 'The ancient pokemon has DNA of mostly every pokemon, has many attacks, one of the cutest pokemoon',
       id:7,
     },
     
