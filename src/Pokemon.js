@@ -6,13 +6,12 @@ const Pokemon = (probes) => {
     return (
       <section className='pokemon'>
         <img src={img}></img><br />
-        <h2>{name}</h2>
-        {/* <button className="disbnt" >Display Name</button> */}
-        <h3>Type:{ptype}</h3>
-        <h4>{details} </h4>
+        <h2 className="name">{name}</h2>
+        <h3 className="type">Type:{ptype}</h3>
+        <h4 className="details">{details} </h4>
         <span className="number">{`#${number+1}`}</span>
+        <button className="disbnt" >Add to wishlist</button>
       </section>
     )
 }
-
 export default Pokemon;
