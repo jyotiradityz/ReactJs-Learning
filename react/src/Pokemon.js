@@ -10,7 +10,7 @@ const Pokemon = (probes) => {
         <h3 className="type">Type:{ptype}</h3>
         <h4 className="details">{details} </h4>
         <span className="number">{`#${number+1}`}</span>
-        <button className="disbnt" >Add to wishlist</button>
+        <button className="disbnt" onClick={displaytitle} >Add to wishlist</button>
       </section>
     )
 }
