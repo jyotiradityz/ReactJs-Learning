@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Navbar = () => {
+const Feature = () => {
   return (
     <div>
-      
+      FETIRE
     </div>
   )
 }
 
-export default Navbar
+export default Feature
